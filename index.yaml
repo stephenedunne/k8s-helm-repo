@@ -3,7 +3,21 @@ entries:
   ava:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2026-02-24T23:54:23.366806+01:00"
+    created: "2026-02-25T00:25:20.098393+01:00"
+    description: A Helm chart for Kubernetes
+    digest: e658b4e7ae88e8fe46ad63bf30fa96b379add54e2945f212f9b50885624e648e
+    icon: https://avatars.githubusercontent.com/u/42079491?s=200&v=4
+    maintainers:
+    - email: aleksei.lazarev@p2p.org
+      name: xom4ek
+    name: ava
+    type: application
+    urls:
+    - https://stephenedunne.github.io/k8s-helm-repo/ava-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 1.2.0
+    created: "2026-02-25T00:25:20.097901+01:00"
     description: A Helm chart for Kubernetes
     digest: bc754cb029dfa759046fdcf4396005ba422b3a231a169a98478ed607d3df16f0
     icon: https://avatars.githubusercontent.com/u/42079491?s=200&v=4
@@ -17,7 +31,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2026-02-24T23:54:23.366301+01:00"
+    created: "2026-02-25T00:25:20.096126+01:00"
     description: A Helm chart for Kubernetes
     digest: 521652a6dd2714d981b55b58618f6c5300a6d8216f7fe5320f0558d044588ed4
     icon: https://avatars.githubusercontent.com/u/42079491?s=200&v=4
@@ -29,4 +43,4 @@ entries:
     urls:
     - https://stephenedunne.github.io/k8s-helm-repo/ava-0.1.0.tgz
     version: 0.1.0
-generated: "2026-02-24T23:54:23.364995+01:00"
+generated: "2026-02-25T00:25:20.095199+01:00"
